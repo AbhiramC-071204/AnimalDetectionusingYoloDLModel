@@ -1,0 +1,12 @@
+flask
+opencv-python
+roboflow
+ultralytics
+pyautogui
+bast(1).pt
+numpy
+tensorflow
+torch
+matplotlib
+pandas
+
