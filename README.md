@@ -2,7 +2,7 @@
 > **Automated Wildlife Detection & Alerting for Railway Safety**
 
 This project uses **YOLOv11** (Deep Learning) to detect animals in video feeds (like CCTV on a train track) and provides real-time alerts to prevent accidents.
-
+localserver :http://192.168.0.104:5000/
 ---
 
 ## 🚀 Features
